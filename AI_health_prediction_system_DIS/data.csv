@@ -1,0 +1,61 @@
+PatientID,Age,Gender,Country,Symptoms,ConfirmedDisease
+1,45,Male,Pakistan,"chest pain,shortness of breath,fatigue,irregular heartbeat,high blood pressure,palpitations",Heart Disease
+2,54,Female,India,"chest pain,dizziness,nausea,fatigue,shortness of breath,swelling in lower body",Heart Disease
+3,60,Male,Pakistan,"irregular heartbeat,fatigue,high blood pressure,chest pain,pounding heart,dizziness",Heart Disease
+4,39,Female,India,"chest pain,shortness of breath,dizziness,neck pain,fatigue,palpitations",Heart Disease
+5,50,Male,Pakistan,"high blood pressure,irregular heartbeat,fatigue,chest pain,lightheadedness,swelling in lower body",Heart Disease
+6,42,Female,India,"dizziness,chest pain,nausea,shortness of breath,heartburn,swelling in feet",Heart Disease
+7,65,Male,Pakistan,"shortness of breath,chest pain,irregular heartbeat,fatigue,difficulty sleeping,swelling in ankles",Heart Disease
+8,58,Female,India,"high blood pressure,fatigue,chest pain,dizziness,swelling in lower body,irregular heartbeat",Heart Disease
+9,47,Male,Pakistan,"chest pain,fatigue,shortness of breath,high blood pressure,palpitations,difficulty sleeping",Heart Disease
+10,55,Female,India,"shortness of breath,high blood pressure,chest pain,dizziness,nausea,swelling in ankles",Heart Disease
+11,53,Male,Pakistan,"neck pain,chest pain,lightheadedness,fatigue,swelling in lower body,difficulty sleeping",Heart Disease
+12,48,Female,India,"heartburn,exhaustion,fatigue,irregular heartbeat,nausea,chest pain,swelling in feet",Heart Disease
+13,62,Male,Pakistan,"palpitations,shortness of breath,chest pain,difficulty sleeping,fever,lightheadedness",Heart Disease
+14,46,Female,India,"dizziness,nausea,shortness of breath,fatigue,neck pain,swelling in ankles",Heart Disease
+15,61,Male,Pakistan,"high blood pressure,chest pain,lightheadedness,heartburn,exhaustion,swelling in feet",Heart Disease
+16,57,Female,India,"chest pain,fatigue,swelling in lower body,irregular heartbeat,dizziness,palpitations",Heart Disease
+17,49,Male,Pakistan,"shortness of breath,chest pain,palpitations,fatigue,neck pain,swelling in ankles",Heart Disease
+18,56,Female,India,"lightheadedness,difficulty sleeping,fatigue,nausea,chest pain,swelling in feet",Heart Disease
+19,63,Male,Pakistan,"shortness of breath,chest pain,irregular heartbeat,swelling in lower body,high blood pressure,fatigue",Heart Disease
+20,44,Female,India,"difficulty sleeping,exhaustion,chest pain,fatigue,fever,swelling in lower body",Heart Disease
+21,25,Male,Pakistan,"frequent urination,excessive thirst,extreme hunger,fatigue,blurred vision",Type 1 Diabetes
+22,32,Female,India,"blurred vision,frequent urination,tingling in hands,unexplained weight loss,fatigue",Type 1 Diabetes
+23,40,Male,Pakistan,"frequent urination,excessive thirst,irritability,fatigue,blurred vision",Type 2 Diabetes
+24,50,Female,India,"slow healing sores,blurred vision,frequent urination,extreme hunger,fatigue",Type 2 Diabetes
+25,28,Male,Pakistan,"unexplained weight loss,frequent urination,excessive thirst,fatigue,tingling in hands",Type 1 Diabetes
+26,35,Female,India,"blurred vision,extreme hunger,fatigue,tingling in feet,frequent urination",Type 1 Diabetes
+27,45,Male,Pakistan,"frequent urination,slow healing sores,excessive thirst,increased infections,fatigue",Type 2 Diabetes
+28,55,Female,India,"blurred vision,fatigue,darkened skin,tingling in feet,frequent urination",Type 2 Diabetes
+29,30,Male,Pakistan,"extreme hunger,frequent urination,fatigue,tingling in hands,blurred vision",Type 1 Diabetes
+30,48,Female,India,"blurred vision,slow healing sores,excessive thirst,unexplained weight loss,fatigue",Type 2 Diabetes
+31,38,Male,Pakistan,"frequent urination,extreme hunger,fatigue,irritability,tingling in feet",Type 2 Diabetes
+32,52,Female,India,"blurred vision,frequent urination,increased infections,slow healing sores,extreme hunger",Type 2 Diabetes
+33,41,Male,Pakistan,"tingling in feet,excessive thirst,unexplained weight loss,darkened skin,frequent urination",Type 2 Diabetes
+34,33,Female,India,"fatigue,frequent urination,irritability,extreme hunger,tingling in hands",Type 1 Diabetes
+35,47,Male,Pakistan,"blurred vision,frequent urination,slow healing sores,excessive thirst,fatigue",Type 2 Diabetes
+36,49,Female,India,"darkened skin,frequent urination,increased infections,fatigue,extreme hunger",Type 2 Diabetes
+37,29,Male,Pakistan,"unexplained weight loss,excessive thirst,tingling in hands,fatigue,frequent urination",Type 1 Diabetes
+38,53,Female,India,"blurred vision,slow healing sores,tingling in feet,fatigue,frequent urination",Type 2 Diabetes
+39,36,Male,Pakistan,"frequent urination,excessive thirst,irritability,unexplained weight loss,tingling in hands",Type 1 Diabetes
+40,60,Female,India,"frequent urination,blurred vision,extreme hunger,increased infections,fatigue",Type 2 Diabetes
+41,58,Female,Pakistan,"unexplained weight loss,fatigue,pain in the chest",cancer
+42,65,Male,India,"coughing blood,shortness of breath,chest pain,weight loss",cancer
+43,70,Female,Pakistan,"abdominal pain,loss of appetite,unexplained weight loss,constant fatigue",cancer
+44,55,Male,India,"swelling in the neck,unexplained weight loss,fatigue,persistent cough",cancer
+45,62,Female,Pakistan,"persistent cough,weight loss,fatigue,difficulty swallowing",cancer
+46,67,Male,India,"lumps in the abdomen,pain in the stomach,unexplained weight loss,fever",cancer
+47,45,Female,Pakistan,"skin changes,bleeding from a mole,itching,skin lesions",cancer
+48,73,Male,India,"fatigue,persistent stomach pain,unexplained weight loss",cancer
+49,60,Female,Pakistan,"lumps in the breast,changes in breast appearance,fatigue",cancer
+50,50,Male,India,"unexplained weight loss,jaundice,persistent abdominal pain",cancer
+51,59,Female,Pakistan,"difficulty swallowing,weight loss,fatigue,hoarseness",cancer
+52,68,Male,India,"coughing blood,shortness of breath,chest pain,weight loss",cancer
+53,63,Female,Pakistan,"loss of appetite,abdominal pain,unexplained weight loss",cancer
+54,52,Male,India,"lumps in the neck,unexplained weight loss,fatigue,swelling of the face",cancer
+55,56,Female,Pakistan,"swelling in the abdomen,persistent nausea,weight loss,loss of appetite",cancer
+56,66,Male,India,"persistent cough,shortness of breath,fatigue,chest pain",cancer
+57,48,Female,Pakistan,"bleeding from a mole,skin ulcers,itching,changes in skin color",cancer
+58,64,Male,India,"unexplained weight loss,persistent stomach pain,fever,loss of appetite",cancer
+59,71,Female,Pakistan,"lumps in the breast,skin changes,fatigue,persistent pain",cancer
+60,69,Male,India,"persistent cough,weight loss,chest pain,difficulty breathing",cancer
