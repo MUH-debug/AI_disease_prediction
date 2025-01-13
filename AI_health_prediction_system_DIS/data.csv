@@ -1,61 +1,20 @@
-PatientID,Age,Gender,Country,Symptoms,ConfirmedDisease
-1,45,Male,Pakistan,"chest pain,shortness of breath,fatigue,irregular heartbeat,high blood pressure,palpitations",Heart Disease
-2,54,Female,India,"chest pain,dizziness,nausea,fatigue,shortness of breath,swelling in lower body",Heart Disease
-3,60,Male,Pakistan,"irregular heartbeat,fatigue,high blood pressure,chest pain,pounding heart,dizziness",Heart Disease
-4,39,Female,India,"chest pain,shortness of breath,dizziness,neck pain,fatigue,palpitations",Heart Disease
-5,50,Male,Pakistan,"high blood pressure,irregular heartbeat,fatigue,chest pain,lightheadedness,swelling in lower body",Heart Disease
-6,42,Female,India,"dizziness,chest pain,nausea,shortness of breath,heartburn,swelling in feet",Heart Disease
-7,65,Male,Pakistan,"shortness of breath,chest pain,irregular heartbeat,fatigue,difficulty sleeping,swelling in ankles",Heart Disease
-8,58,Female,India,"high blood pressure,fatigue,chest pain,dizziness,swelling in lower body,irregular heartbeat",Heart Disease
-9,47,Male,Pakistan,"chest pain,fatigue,shortness of breath,high blood pressure,palpitations,difficulty sleeping",Heart Disease
-10,55,Female,India,"shortness of breath,high blood pressure,chest pain,dizziness,nausea,swelling in ankles",Heart Disease
-11,53,Male,Pakistan,"neck pain,chest pain,lightheadedness,fatigue,swelling in lower body,difficulty sleeping",Heart Disease
-12,48,Female,India,"heartburn,exhaustion,fatigue,irregular heartbeat,nausea,chest pain,swelling in feet",Heart Disease
-13,62,Male,Pakistan,"palpitations,shortness of breath,chest pain,difficulty sleeping,fever,lightheadedness",Heart Disease
-14,46,Female,India,"dizziness,nausea,shortness of breath,fatigue,neck pain,swelling in ankles",Heart Disease
-15,61,Male,Pakistan,"high blood pressure,chest pain,lightheadedness,heartburn,exhaustion,swelling in feet",Heart Disease
-16,57,Female,India,"chest pain,fatigue,swelling in lower body,irregular heartbeat,dizziness,palpitations",Heart Disease
-17,49,Male,Pakistan,"shortness of breath,chest pain,palpitations,fatigue,neck pain,swelling in ankles",Heart Disease
-18,56,Female,India,"lightheadedness,difficulty sleeping,fatigue,nausea,chest pain,swelling in feet",Heart Disease
-19,63,Male,Pakistan,"shortness of breath,chest pain,irregular heartbeat,swelling in lower body,high blood pressure,fatigue",Heart Disease
-20,44,Female,India,"difficulty sleeping,exhaustion,chest pain,fatigue,fever,swelling in lower body",Heart Disease
-21,25,Male,Pakistan,"frequent urination,excessive thirst,extreme hunger,fatigue,blurred vision",Type 1 Diabetes
-22,32,Female,India,"blurred vision,frequent urination,tingling in hands,unexplained weight loss,fatigue",Type 1 Diabetes
-23,40,Male,Pakistan,"frequent urination,excessive thirst,irritability,fatigue,blurred vision",Type 2 Diabetes
-24,50,Female,India,"slow healing sores,blurred vision,frequent urination,extreme hunger,fatigue",Type 2 Diabetes
-25,28,Male,Pakistan,"unexplained weight loss,frequent urination,excessive thirst,fatigue,tingling in hands",Type 1 Diabetes
-26,35,Female,India,"blurred vision,extreme hunger,fatigue,tingling in feet,frequent urination",Type 1 Diabetes
-27,45,Male,Pakistan,"frequent urination,slow healing sores,excessive thirst,increased infections,fatigue",Type 2 Diabetes
-28,55,Female,India,"blurred vision,fatigue,darkened skin,tingling in feet,frequent urination",Type 2 Diabetes
-29,30,Male,Pakistan,"extreme hunger,frequent urination,fatigue,tingling in hands,blurred vision",Type 1 Diabetes
-30,48,Female,India,"blurred vision,slow healing sores,excessive thirst,unexplained weight loss,fatigue",Type 2 Diabetes
-31,38,Male,Pakistan,"frequent urination,extreme hunger,fatigue,irritability,tingling in feet",Type 2 Diabetes
-32,52,Female,India,"blurred vision,frequent urination,increased infections,slow healing sores,extreme hunger",Type 2 Diabetes
-33,41,Male,Pakistan,"tingling in feet,excessive thirst,unexplained weight loss,darkened skin,frequent urination",Type 2 Diabetes
-34,33,Female,India,"fatigue,frequent urination,irritability,extreme hunger,tingling in hands",Type 1 Diabetes
-35,47,Male,Pakistan,"blurred vision,frequent urination,slow healing sores,excessive thirst,fatigue",Type 2 Diabetes
-36,49,Female,India,"darkened skin,frequent urination,increased infections,fatigue,extreme hunger",Type 2 Diabetes
-37,29,Male,Pakistan,"unexplained weight loss,excessive thirst,tingling in hands,fatigue,frequent urination",Type 1 Diabetes
-38,53,Female,India,"blurred vision,slow healing sores,tingling in feet,fatigue,frequent urination",Type 2 Diabetes
-39,36,Male,Pakistan,"frequent urination,excessive thirst,irritability,unexplained weight loss,tingling in hands",Type 1 Diabetes
-40,60,Female,India,"frequent urination,blurred vision,extreme hunger,increased infections,fatigue",Type 2 Diabetes
-41,58,Female,Pakistan,"unexplained weight loss,fatigue,pain in the chest",cancer
-42,65,Male,India,"coughing blood,shortness of breath,chest pain,weight loss",cancer
-43,70,Female,Pakistan,"abdominal pain,loss of appetite,unexplained weight loss,constant fatigue",cancer
-44,55,Male,India,"swelling in the neck,unexplained weight loss,fatigue,persistent cough",cancer
-45,62,Female,Pakistan,"persistent cough,weight loss,fatigue,difficulty swallowing",cancer
-46,67,Male,India,"lumps in the abdomen,pain in the stomach,unexplained weight loss,fever",cancer
-47,45,Female,Pakistan,"skin changes,bleeding from a mole,itching,skin lesions",cancer
-48,73,Male,India,"fatigue,persistent stomach pain,unexplained weight loss",cancer
-49,60,Female,Pakistan,"lumps in the breast,changes in breast appearance,fatigue",cancer
-50,50,Male,India,"unexplained weight loss,jaundice,persistent abdominal pain",cancer
-51,59,Female,Pakistan,"difficulty swallowing,weight loss,fatigue,hoarseness",cancer
-52,68,Male,India,"coughing blood,shortness of breath,chest pain,weight loss",cancer
-53,63,Female,Pakistan,"loss of appetite,abdominal pain,unexplained weight loss",cancer
-54,52,Male,India,"lumps in the neck,unexplained weight loss,fatigue,swelling of the face",cancer
-55,56,Female,Pakistan,"swelling in the abdomen,persistent nausea,weight loss,loss of appetite",cancer
-56,66,Male,India,"persistent cough,shortness of breath,fatigue,chest pain",cancer
-57,48,Female,Pakistan,"bleeding from a mole,skin ulcers,itching,changes in skin color",cancer
-58,64,Male,India,"unexplained weight loss,persistent stomach pain,fever,loss of appetite",cancer
-59,71,Female,Pakistan,"lumps in the breast,skin changes,fatigue,persistent pain",cancer
-60,69,Male,India,"persistent cough,weight loss,chest pain,difficulty breathing",cancer
+Disease Name,Common Symptoms (Easy),Common Symptoms (Complex),Age Group Most Affected,Symptom Probabilities,Country,Description
+Thalassemia,"Feeling tired, Weakness, Pale skin, Slow growth, Bone problems, Swollen belly, Dark urine","Fatigue, Weakness, Pallor, Growth retardation, Bone deformities, Abdominal distension, Hemoglobinuria","early childhood,adolescents","Fatigue and weakness are common symptoms. The severity of symptoms can vary.",India,
+Sickle Cell Anemia,"Body pain, Feeling tired, Yellow eyes, Swelling in hands and feet, Frequent infections","Vaso-occlusive episodes, Anemia, Jaundice, Dactylitis, Recurrent infections","early childhood,adolescents","Pain episodes (vaso-occlusive crises) are common. Anemia-related symptoms like fatigue and jaundice are also prevalent.",India,
+Down Syndrome,"Flat face, Small ears, Slanted eyes, Learning problems, Loose muscles","Flat facial profile, Small auricles, Upward slanting palpebral fissures, Intellectual disability, Hypotonia","adolescents,adults","Intellectual disability is common, with varying degrees of severity. Physical features like a flat facial profile are characteristic.",India,
+Cystic Fibrosis,"Trouble breathing, Stomach problems, Salty skin, Coughing a lot, Poor weight gain","Chronic respiratory infections, Pancreatic insufficiency, Salty sweat, Persistent cough, Failure to thrive","early childhood,adolecents","Respiratory issues like chronic cough and lung infections are common. Digestive problems, including difficulty gaining weight, are also prevalent.",India,
+Duchenne Muscular Dystrophy,"Weak muscles, Trouble walking, Enlarged calves, Trouble breathing, Falling often","Muscle weakness, Gower's sign, Pseudohypertrophy of calves, Respiratory insufficiency, Frequent falls","adolescents,adults","Respiratory problems and muscle weakness are very common, with progressive loss of function.",India,
+Xeroderma Pigmentosum,"Severe sunburn after only a few minutes in the sun, Freckling in sun-exposed areas, Dry skin, Changes in skin pigmentation","Photosensitivity, Ephelides, Xerosis, Pigmentary changes","adolescents,adults","Individuals with XP have a significantly increased risk of developing skin cancers, with about half having skin cancer by age 10 without preventative efforts.",Japan,"A rare genetic disorder characterized by extreme sensitivity to ultraviolet (UV) light, leading to skin damage and a significantly increased risk of skin cancer."
+Usher Syndrome,"Hearing loss, Vision problems, Balance issues","Sensorineural hearing loss, Retinitis pigmentosa, Vestibular dysfunction","early childhood,adolescents","Hearing loss is present from birth, and vision problems usually develop in adolescence.",Japan,"An autosomal recessive disorder characterized by hearing loss, retinitis pigmentosa, and vestibular dysfunction."
+Fabry Disease,"Pain in hands and feet, Skin rashes, Eye problems, Digestive issues","Acroparesthesia, Angiokeratomas, Corneal opacities, Gastrointestinal disturbances","adults,elderly","Pain episodes are common, and skin rashes are often present.",Japan,"A rare X-linked lysosomal storage disorder caused by a deficiency of the enzyme alpha-galactosidase A, leading to the accumulation of certain lipids in the body."
+Moyamoya Disease,"Stroke, Seizures, Headaches, Weakness on one side of the body","Ischemic stroke, Hemorrhagic stroke, Seizure disorders, Hemiparesis","adolescents,adults","Stroke is a common symptom, and seizures may occur.",Japan,"A rare, progressive cerebrovascular disorder characterized by narrowing of the internal carotid arteries and their branches, leading to reduced blood flow to the brain."
+Tay-Sachs Disease,"Delayed development milestones, Loss of skills, Seizures, Vision and hearing loss","Developmental regression, Seizure activity, Sensorineural hearing loss, Visual impairment","early childhood","Developmental delays and seizures are common, with vision and hearing loss occurring as disease progresses",Jerusalem,
+Gaucher Disease,"Enlarged liver and spleen, Bone pain and fractures, Fatigue, Easy bruising","Hepatosplenomegaly, Osteopenia/Osteoporosis, Anemia, Thrombocytopenia","adults,elderly","Enlarged liver and spleen are common, with bone pain and fractures in many cases",Jerusalem,
+Bloom Syndrome,"Short stature, Red rash on sun-exposed areas, Increased risk of infections, Fertility issues","Growth retardation, Photosensitive erythema, Immunodeficiency, Infertility","adolescents,adults","Short stature and photosensitive rash are common, with increased risk of infections and fertility issues",Jerusalem,
+Lafora Disease,"Seizures, Muscle jerks, Cognitive decline, Loss of coordination","Myoclonus, Cognitive impairment, Ataxia, Neurodegeneration","adolescents,adults","Seizures and muscle jerks are common, with cognitive decline and loss of coordination as the disease progresses",Jerusalem,
+Familial Mediterranean Fever,"Recurrent fevers, Abdominal pain, Chest pain, Joint pain","Periodic fever episodes, Abdominal paroxysms, Pleuritic chest pain, Arthralgia","early childhood,adolescents","Recurrent fevers and abdominal pain are common, with chest and joint pain occurring in many cases",Jerusalem,
+Thalassemia,"Feeling tired, Feeling weak, Pale skin, Bone changes in the face, Slow growth, Swollen belly, Dark pee","Fatigue, Weakness, Pallor, Facial bone deformities, Growth retardation, Abdominal distension, Hemoglobinuria","early childhood,adolescents","Fatigue and weakness are common",Pakistan,
+Ventricular Septal Defect (VSD),"Hard to breathe, Fast breathing, Catching colds often, Not gaining weight, Unusual heart sounds","Dyspnea, Tachypnea, Recurrent respiratory infections, Failure to thrive, Heart murmur","early childhood,adults","Heart murmurs commonly detected",Pakistan,
+Spinocerebellar Disorders,"Clumsy walking, Trouble keeping balance, Slurred speech, Jerky eye movements, Memory problems","Ataxia, Dysarthria, Nystagmus, Impaired coordination, Cognitive decline","adults,elderly","Varies widely depending on disorder subtype",Pakistan,
+"Autosomal Recessive Disorders (e.g., Cystic Fibrosis, Sickle Cell Anemia)","Trouble breathing, Stomach problems (Cystic Fibrosis); Body pain, Feeling tired (Sickle Cell Anemia)","Chronic respiratory infections, Malabsorption (Cystic Fibrosis); Vaso-occlusive episodes, Anemia (Sickle Cell Anemia)","early childhood,adults","Pain episodes (Sickle Cell Anemia), Respiratory issues (Cystic Fibrosis)",Pakistan,
+Inherited Metabolic Disorders,"Learning problems, Seizures, Weak muscles, Small head size","Developmental delay, Epileptic seizures, Hypotonia, Microcephaly","adolescents,adults","Developmental delay and seizures are common",Pakistan,
